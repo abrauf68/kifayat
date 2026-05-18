@@ -97,6 +97,11 @@
     color: #12959A;
 }
 
+.box-title .badge.computer {
+    background: #FEE2E2;
+    color: #991B1B;
+}
+
 .vertical-bottom {
     display: flex;
     align-items: flex-end;
