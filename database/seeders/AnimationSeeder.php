@@ -62,404 +62,497 @@ class AnimationSeeder extends Seeder
                 'class_id' => 1,
                 'name' => 'Chapter 1',
                 'slug' => 'class-1-chapter-1',
+                'worksheet' => 'assets/worksheets/class1/chapter1.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 2',
                 'slug' => 'class-1-chapter-2',
+                'worksheet' => 'assets/worksheets/class1/chapter2.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 3',
                 'slug' => 'class-1-chapter-3',
+                'worksheet' => 'assets/worksheets/class1/chapter3.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 4',
                 'slug' => 'class-1-chapter-4',
+                'worksheet' => 'assets/worksheets/class1/chapter4.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 5',
                 'slug' => 'class-1-chapter-5',
+                'worksheet' => 'assets/worksheets/class1/chapter5.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 6',
                 'slug' => 'class-1-chapter-6',
+                'worksheet' => 'assets/worksheets/class1/chapter6.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 7',
                 'slug' => 'class-1-chapter-7',
+                'worksheet' => 'assets/worksheets/class1/chapter7.jpg',
             ],
             [
                 'class_id' => 1,
                 'name' => 'Chapter 8',
                 'slug' => 'class-1-chapter-8',
+                'worksheet' => 'assets/worksheets/class1/chapter8.jpg',
             ],
+
+
             //class 2
             [
                 'class_id' => 2,
                 'name' => 'Chapter 1',
                 'slug' => 'class-2-chapter-1',
+                'worksheet' => 'assets/worksheets/class2/chapter1.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 2',
                 'slug' => 'class-2-chapter-2',
+                'worksheet' => 'assets/worksheets/class2/chapter2.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 3',
                 'slug' => 'class-2-chapter-3',
+                'worksheet' => 'assets/worksheets/class2/chapter3.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 4',
                 'slug' => 'class-2-chapter-4',
+                'worksheet' => 'assets/worksheets/class2/chapter4.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 5',
                 'slug' => 'class-2-chapter-5',
+                'worksheet' => 'assets/worksheets/class2/chapter5.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 6',
                 'slug' => 'class-2-chapter-6',
+                'worksheet' => 'assets/worksheets/class2/chapter6.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 7',
                 'slug' => 'class-2-chapter-7',
+                'worksheet' => 'assets/worksheets/class2/chapter7.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 8',
                 'slug' => 'class-2-chapter-8',
+                'worksheet' => 'assets/worksheets/class2/chapter8.jpg',
             ],
             [
                 'class_id' => 2,
                 'name' => 'Chapter 9',
                 'slug' => 'class-2-chapter-9',
+                'worksheet' => 'assets/worksheets/class2/chapter9.jpg',
             ],
+
+
             //class 3
             [
                 'class_id' => 3,
                 'name' => 'Chapter 1',
                 'slug' => 'class-3-chapter-1',
+                'worksheet' => 'assets/worksheets/class3/chapter1.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 2',
                 'slug' => 'class-3-chapter-2',
+                'worksheet' => 'assets/worksheets/class3/chapter2.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 3',
                 'slug' => 'class-3-chapter-3',
+                'worksheet' => 'assets/worksheets/class3/chapter3.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 4',
                 'slug' => 'class-3-chapter-4',
+                'worksheet' => 'assets/worksheets/class3/chapter4.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 5',
                 'slug' => 'class-3-chapter-5',
+                'worksheet' => 'assets/worksheets/class3/chapter5.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 6',
                 'slug' => 'class-3-chapter-6',
+                'worksheet' => 'assets/worksheets/class3/chapter6.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 7',
                 'slug' => 'class-3-chapter-7',
+                'worksheet' => 'assets/worksheets/class3/chapter7.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 8',
                 'slug' => 'class-3-chapter-8',
+                'worksheet' => 'assets/worksheets/class3/chapter8.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 9',
                 'slug' => 'class-3-chapter-9',
+                'worksheet' => 'assets/worksheets/class3/chapter9.jpg',
             ],
             [
                 'class_id' => 3,
                 'name' => 'Chapter 10',
                 'slug' => 'class-3-chapter-10',
+                'worksheet' => 'assets/worksheets/class3/chapter10.jpg',
             ],
+
+
             //class 4
             [
                 'class_id' => 4,
                 'name' => 'Chapter 1',
                 'slug' => 'class-4-chapter-1',
+                'worksheet' => 'assets/worksheets/class4/chapter1.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 2',
                 'slug' => 'class-4-chapter-2',
+                'worksheet' => 'assets/worksheets/class4/chapter2.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 3',
                 'slug' => 'class-4-chapter-3',
+                'worksheet' => 'assets/worksheets/class4/chapter3.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 4',
                 'slug' => 'class-4-chapter-4',
+                'worksheet' => 'assets/worksheets/class4/chapter4.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 5',
                 'slug' => 'class-4-chapter-5',
+                'worksheet' => 'assets/worksheets/class4/chapter5.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 6',
                 'slug' => 'class-4-chapter-6',
+                'worksheet' => 'assets/worksheets/class4/chapter6.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 7',
                 'slug' => 'class-4-chapter-7',
+                'worksheet' => 'assets/worksheets/class4/chapter7.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 8',
                 'slug' => 'class-4-chapter-8',
+                'worksheet' => 'assets/worksheets/class4/chapter8.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 9',
                 'slug' => 'class-4-chapter-9',
+                'worksheet' => 'assets/worksheets/class4/chapter9.jpg',
             ],
             [
                 'class_id' => 4,
                 'name' => 'Chapter 10',
                 'slug' => 'class-4-chapter-10',
+                'worksheet' => 'assets/worksheets/class4/chapter10.jpg',
             ],
+
             //class 5
             [
                 'class_id' => 5,
                 'name' => 'Chapter 1',
                 'slug' => 'class-5-chapter-1',
+                'worksheet' => 'assets/worksheets/class5/chapter1.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 2',
                 'slug' => 'class-5-chapter-2',
+                'worksheet' => 'assets/worksheets/class5/chapter2.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 3',
                 'slug' => 'class-5-chapter-3',
+                'worksheet' => 'assets/worksheets/class5/chapter3.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 4',
                 'slug' => 'class-5-chapter-4',
+                'worksheet' => 'assets/worksheets/class5/chapter4.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 5',
                 'slug' => 'class-5-chapter-5',
+                'worksheet' => 'assets/worksheets/class5/chapter5.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 6',
                 'slug' => 'class-5-chapter-6',
+                'worksheet' => 'assets/worksheets/class5/chapter6.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 7',
                 'slug' => 'class-5-chapter-7',
+                'worksheet' => 'assets/worksheets/class5/chapter7.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 8',
                 'slug' => 'class-5-chapter-8',
+                'worksheet' => 'assets/worksheets/class5/chapter8.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 9',
                 'slug' => 'class-5-chapter-9',
+                'worksheet' => 'assets/worksheets/class5/chapter9.jpg',
             ],
             [
                 'class_id' => 5,
                 'name' => 'Chapter 10',
                 'slug' => 'class-5-chapter-10',
+                'worksheet' => 'assets/worksheets/class5/chapter10.jpg',
             ],
+
+
             //class 6
             [
                 'class_id' => 6,
                 'name' => 'Chapter 1',
                 'slug' => 'class-6-chapter-1',
+                'worksheet' => 'assets/worksheets/class6/chapter1.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 2',
                 'slug' => 'class-6-chapter-2',
+                'worksheet' => 'assets/worksheets/class6/chapter2.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 3',
                 'slug' => 'class-6-chapter-3',
+                'worksheet' => 'assets/worksheets/class6/chapter3.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 4',
                 'slug' => 'class-6-chapter-4',
+                'worksheet' => 'assets/worksheets/class6/chapter4.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 5',
                 'slug' => 'class-6-chapter-5',
+                'worksheet' => 'assets/worksheets/class6/chapter5.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 6',
                 'slug' => 'class-6-chapter-6',
+                'worksheet' => 'assets/worksheets/class6/chapter6.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 7',
                 'slug' => 'class-6-chapter-7',
+                'worksheet' => 'assets/worksheets/class6/chapter7.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 8',
                 'slug' => 'class-6-chapter-8',
+                'worksheet' => 'assets/worksheets/class6/chapter8.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 9',
                 'slug' => 'class-6-chapter-9',
+                'worksheet' => 'assets/worksheets/class6/chapter9.jpg',
             ],
             [
                 'class_id' => 6,
                 'name' => 'Chapter 10',
                 'slug' => 'class-6-chapter-10',
+                'worksheet' => 'assets/worksheets/class6/chapter10.jpg',
             ],
+
+
             //class 7
             [
                 'class_id' => 7,
                 'name' => 'Chapter 1',
                 'slug' => 'class-7-chapter-1',
+                'worksheet' => 'assets/worksheets/class7/chapter1.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 2',
                 'slug' => 'class-7-chapter-2',
+                'worksheet' => 'assets/worksheets/class7/chapter2.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 3',
                 'slug' => 'class-7-chapter-3',
+                'worksheet' => 'assets/worksheets/class7/chapter3.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 4',
                 'slug' => 'class-7-chapter-4',
+                'worksheet' => 'assets/worksheets/class7/chapter4.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 5',
                 'slug' => 'class-7-chapter-5',
+                'worksheet' => 'assets/worksheets/class7/chapter5.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 6',
                 'slug' => 'class-7-chapter-6',
+                'worksheet' => 'assets/worksheets/class7/chapter6.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 7',
                 'slug' => 'class-7-chapter-7',
+                'worksheet' => 'assets/worksheets/class7/chapter7.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 8',
                 'slug' => 'class-7-chapter-8',
+                'worksheet' => 'assets/worksheets/class7/chapter8.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 9',
                 'slug' => 'class-7-chapter-9',
+                'worksheet' => 'assets/worksheets/class7/chapter9.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 10',
                 'slug' => 'class-7-chapter-10',
+                'worksheet' => 'assets/worksheets/class7/chapter10.jpg',
             ],
             [
                 'class_id' => 7,
                 'name' => 'Chapter 11',
                 'slug' => 'class-7-chapter-11',
+                'worksheet' => 'assets/worksheets/class7/chapter11.jpg',
             ],
+
+
             //class 8
             [
                 'class_id' => 8,
                 'name' => 'Chapter 1',
                 'slug' => 'class-8-chapter-1',
+                'worksheet' => 'assets/worksheets/class8/chapter1.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 2',
                 'slug' => 'class-8-chapter-2',
+                'worksheet' => 'assets/worksheets/class8/chapter2.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 3',
                 'slug' => 'class-8-chapter-3',
+                'worksheet' => 'assets/worksheets/class8/chapter3.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 4',
                 'slug' => 'class-8-chapter-4',
+                'worksheet' => 'assets/worksheets/class8/chapter4.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 5',
                 'slug' => 'class-8-chapter-5',
+                'worksheet' => 'assets/worksheets/class8/chapter5.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 6',
                 'slug' => 'class-8-chapter-6',
+                'worksheet' => 'assets/worksheets/class8/chapter6.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 7',
                 'slug' => 'class-8-chapter-7',
+                'worksheet' => 'assets/worksheets/class8/chapter7.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 8',
                 'slug' => 'class-8-chapter-8',
+                'worksheet' => 'assets/worksheets/class8/chapter8.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 9',
                 'slug' => 'class-8-chapter-9',
+                'worksheet' => 'assets/worksheets/class8/chapter9.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 10',
                 'slug' => 'class-8-chapter-10',
+                'worksheet' => 'assets/worksheets/class8/chapter10.jpg',
             ],
             [
                 'class_id' => 8,
                 'name' => 'Chapter 11',
                 'slug' => 'class-8-chapter-11',
+                'worksheet' => 'assets/worksheets/class8/chapter11.jpg',
             ],
+
         ];
 
         foreach ($classChapters as $chapter) {

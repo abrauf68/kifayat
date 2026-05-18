@@ -22,7 +22,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('frontend.pages.choose-portal');
 })->name('choose-portal');
-// Guest Routes
+// Guest Routes hh
 
     //User Login Authentication Routes
     Route::get('student/login', [AuthController::class, 'studentLogin'])->name('student.login');
@@ -36,24 +36,34 @@ Route::get('/', function () {
     Route::post('student/register-attempt', [AuthController::class, 'student_register_attempt'])->name('student.register.attempt');
     Route::post('teacher/register-attempt', [AuthController::class, 'teacher_register_attempt'])->name('teacher.register.attempt');
 
-
-// Authentication Routes
-Route::group(['middleware' => ['auth']], function () {
-    Route::post('logout', [AuthController::class, 'logout'])->name('logout');
-
-    Route::get('profile', [ProfileController::class, 'index'])->name('profile.index');
-    Route::post('profile/update', [ProfileController::class, 'update'])->name('profile.update');
-
     //Student Portal Routes
-     Route::prefix('student')->name('student.')->group(function () {
+    Route::prefix('student')->name('student.')->group(function () {
         Route::get('/', [StudentController::class, 'studentPortal'])->name('portal');
         Route::get('/videos', [StudentController::class, 'studentVideos'])->name('videos');
         Route::get('/audios', [StudentController::class, 'studentAudios'])->name('audios');
         Route::get('/animations', [StudentController::class, 'studentAnimations'])->name('animations');
         Route::get('/animations/{class}/{chapter}', [StudentController::class, 'chapterDetails'])->name('animations.chapter');
         Route::get('/animations/preview', [StudentController::class, 'preview'])->name('animation.preview');
+        Route::get('/uraan-urdu-series', [StudentController::class, 'uraanUrduSeries'])->name('uraan-urdu-series');
+        Route::get('/uraan-urdu-series/{class}/{chapter}', [StudentController::class, 'urduChapterDetails'])->name('uraan-urdu-series.chapter');
+        Route::get('/uraan-urdu-preview', [StudentController::class, 'urduPreview'])->name('uraan-urdu.preview');
+        Route::get('/uraan-urdu-series-resources', function () {
+            return view('dashboard.students.urdu-resources');
+        })->name('urdu-resources');
+        Route::get('/uraan-urdu-series-nocs', function () {
+            return view('dashboard.students.uraan-urdu-noc');
+        })->name('urdu-nocs');
 
     });
+
+// Authentication Routes
+
+Route::group(['middleware' => ['auth']], function () {
+    Route::post('logout', [AuthController::class, 'logout'])->name('logout');
+
+    Route::get('profile', [ProfileController::class, 'index'])->name('profile.index');
+    Route::post('profile/update', [ProfileController::class, 'update'])->name('profile.update');
+
 
     //Teacher Portal Routes
      Route::prefix('teacher')->name('teacher.')->group(function () {

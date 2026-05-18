@@ -273,7 +273,7 @@
                 <div class="box-title">
                     <span class="title">Small World <br> Junior TG</span>
                     <div class="vertical-bottom">
-                        <span class="badge science">Science</span>
+                        <span class="badge science">GK</span>
                         <div class="mute-text">
                             <span>PDF • 71 pages</span>
                         </div>
@@ -285,7 +285,7 @@
                 <div class="box-title">
                     <span class="title">Small World <br> Senior TG</span>
                     <div class="vertical-bottom">
-                        <span class="badge science">Science</span>
+                        <span class="badge science">GK</span>
                         <div class="mute-text">
                             <span>PDF • 147 pages</span>
                         </div>
@@ -297,7 +297,7 @@
                 <div class="box-title">
                     <span class="title">Small World <br> Class 1</span>
                     <div class="vertical-bottom">
-                        <span class="badge science">Science</span>
+                        <span class="badge science">GK</span>
                         <div class="mute-text">
                             <span>PDF • 147 pages</span>
                         </div>
@@ -309,7 +309,7 @@
                 <div class="box-title">
                     <span class="title">Small World <br> Class 2</span>
                     <div class="vertical-bottom">
-                        <span class="badge science">Science</span>
+                        <span class="badge science">GK</span>
                         <div class="mute-text">
                             <span>PDF • 188 pages</span>
                         </div>
@@ -317,13 +317,80 @@
                 </div>
             </a>
             <a href="{{ asset('assets/ebooks/gk/Small-World-Class-3') }}" target="_blank" class="items-box">
-                <img height="80px" src="{{ asset('assets/images/books/small-world-class-4.jpg') }}" alt="book">
+                <img height="80px" src="{{ asset('assets/images/books/small-world-class-3.jpg') }}" alt="book">
                 <div class="box-title">
                     <span class="title">Small World <br> Class 3</span>
                     <div class="vertical-bottom">
-                        <span class="badge science">Science</span>
+                        <span class="badge science">GK</span>
                         <div class="mute-text">
                             <span>PDF • 214 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="{{ asset('assets/ebooks/gk/Small-World-SNC-Class-1') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/small-world-snc-class-1.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Small World SNC <br> Class 1</span>
+                    <div class="vertical-bottom">
+                        <span class="badge science">GK</span>
+                        <div class="mute-text">
+                            <span>PDF • 55 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="{{ asset('assets/ebooks/gk/Small-World-SNC-Class-2') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/small-world-snc-class-2.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Small World SNC <br> Class 2</span>
+                    <div class="vertical-bottom">
+                        <span class="badge science">GK</span>
+                        <div class="mute-text">
+                            <span>PDF • 45 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="{{ asset('assets/ebooks/gk/Small-World-SNC-Class-3') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/small-world-snc-class-3.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Small World SNC <br> Class 3</span>
+                    <div class="vertical-bottom">
+                        <span class="badge science">GK</span>
+                        <div class="mute-text">
+                            <span>PDF • 40 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <!-- Social Studies Books -->
+        <div class="item-title mt-5">
+            <span>Social Studies</span>
+        </div>
+        <div class="boxes mt-5">
+            <a href="{{ asset('assets/ebooks/gk/Small-World-SNC-Class-4') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/small-world-snc-class-4.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Small World SNC <br> Class 4</span>
+                    <div class="vertical-bottom">
+                        <span class="badge science">SST</span>
+                        <div class="mute-text">
+                            <span>PDF • 78 pages</span>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            <a href="{{ asset('assets/ebooks/gk/Small-World-SNC-Class-5') }}" target="_blank" class="items-box">
+                <img height="80px" src="{{ asset('assets/images/books/small-world-snc-class-5.jpg') }}" alt="book">
+                <div class="box-title">
+                    <span class="title">Small World SNC <br> Class 5</span>
+                    <div class="vertical-bottom">
+                        <span class="badge science">SST</span>
+                        <div class="mute-text">
+                            <span>PDF • 68 pages</span>
                         </div>
                     </div>
                 </div>
